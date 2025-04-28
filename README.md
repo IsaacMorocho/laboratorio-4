@@ -4,4 +4,4 @@ Se escogio la red social Instagram en el apartado de recomendacion de personas l
 ![image](https://github.com/user-attachments/assets/d6390d1d-ddfc-4752-9874-c364e105409c)
 ![image](https://github.com/user-attachments/assets/c4729a25-75db-41b1-8b7d-2005b34a822f)
 
-Para trabajar con Objetos y Arras vistos en clase.
+Para trabajar con Objetos y Arrays vistos en clase.
